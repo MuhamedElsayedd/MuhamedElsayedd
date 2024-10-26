@@ -4,12 +4,6 @@
 - 📫 How to reach me: mohamedelsayed100100100@gmail.com
 
 
-### Connect with me:
-
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/roberto-joseph-b69ba11b1/)
-&nbsp;&nbsp;
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 
